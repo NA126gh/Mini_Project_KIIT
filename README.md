@@ -1,9 +1,4 @@
-Mini_Project_KIIT
-Naveen Ghosh
-B.Tech ( C.S.E)
-Mini Project Sixth Semester
-Kalinga Institute of Industrial Technology (KIIT), Odisha, India
-Explanation of Word Mover's Distance
+
 Imagine you have a box of different colored LEGO blocks, and each color represents a word. Now, let's say you want to build two towers out of these blocks, but the towers look a little different from each other.
 
 The Word Mover's Distance (WMD) is like figuring out the smallest number of steps it would take to move the blocks around so that one tower looks exactly like the other one. In this case, the blocks are words, and the steps are how different the words are from each other.
